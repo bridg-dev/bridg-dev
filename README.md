@@ -1,2 +1,1 @@
-# Bridg
-### Links
+Hello! My name is _Bridg_ :)
